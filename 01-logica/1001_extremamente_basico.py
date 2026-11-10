@@ -1,5 +1,5 @@
-A = int(input("Number 1 - "))
-B = int(input("Number 2 - "))
+A = int(input())
+B = int(input())
 
 X = A + B
 
